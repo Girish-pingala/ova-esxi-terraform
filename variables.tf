@@ -6,5 +6,5 @@ variable "esxi_credentials" {
     ssh_port             = number
     ssl_port             = number
   })
-  description = "ESXi connection details"
+  description = "Esxi connection details"
 }
